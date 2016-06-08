@@ -1,0 +1,33 @@
+{
+  "name": "arcgis-wab-react-redux",
+  "version": "2.0.1",
+  "description": "A dev stack for developing widgets for Web AppBuilder for ArcGIS using React, Redux, Babel and Webpack.",
+  "scripts": {
+    "start": "node devServer.js",
+    "build": "webpack --progress --config webpack.config.prod.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ARCDATA PRAHA, s.r.o.",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.9.0",
+    "lodash": "^4.13.1",
+    "node-uuid": "^1.4.7",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.0",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

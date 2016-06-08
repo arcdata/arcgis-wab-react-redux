@@ -1,0 +1,15 @@
+.jimu-input.geosearch {
+    width: 100%;
+}
+
+.jimu-list-container.geosearch {
+    padding-left: 0px;
+}
+
+.jimu-list-item {
+    cursor: pointer;
+}
+
+.jimu-list-item.label {
+    cursor: pointer;
+}

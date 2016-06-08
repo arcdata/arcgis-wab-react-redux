@@ -1,0 +1,13 @@
+{
+  "name": "ReactWidgetTemplate",
+  "platform": "HTML",
+  "version": "1.0.0",
+  "wabVersion": "2.0.1",
+  "author": "ARCDATA PRAHA, s.r.o.",
+  "description": "A widget template for WAB using React for UI and Redux for state management.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasVersionManager": false
+  }
+}

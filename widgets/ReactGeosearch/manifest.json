@@ -1,0 +1,13 @@
+{
+  "name": "ReactGeosearch",
+  "platform": "HTML",
+  "version": "1.0.0",
+  "wabVersion": "2.0.1",
+  "author": "ARCDATA PRAHA, s.r.o.",
+  "description": "Search addresses using ArcGIS Geosearch API",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasVersionManager": false
+  }
+}
