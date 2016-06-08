@@ -1,4 +1,4 @@
-# wab-arcdata-dev-stack
+# arcgis-wab-react-redux
 
 This repo contains a ReactWidgetTemplate folder, a basic starter to write widgets for [Web AppBuilder for ArcGIS (Developer Edition)](https://developers.arcgis.com/web-appbuilder) (WAB) using [React](https://github.com/facebook/react), [Redux](https://github.com/reactjs/redux), [Babel](https://github.com/babel/babel) and [Webpack](https://github.com/webpack/webpack). There is also a ReactGeosearch folder, an example of more complex widget using async actions and state persistance.
 
